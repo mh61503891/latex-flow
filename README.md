@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/gem/v/latex-flow.svg)](https://rubygems.org/gems/latex-flow)
+
 # latex-flow
 
 Latex-flow is a command-line tool to support LaTeX's workflow.
