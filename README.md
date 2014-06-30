@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/gem/v/latex-flow.svg)](https://rubygems.org/gems/latex-flow)
+[![Gem Version](https://badge.fury.io/rb/latex-flow.svg)](http://badge.fury.io/rb/latex-flow)
 
 # latex-flow
 
