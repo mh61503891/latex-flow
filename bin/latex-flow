@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'latex-flow/cli'
+LatexFlow::CLI.start(ARGV)
